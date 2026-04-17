@@ -1,7 +1,6 @@
 # HR Analysis Dashboard (Power BI)
 
 ## 📊 Dashboard Preview
-![HR Dashboard](HR 1.PNG)
 
 ## 🎯 Project Objective
 The goal of this analysis was to provide the HR department with insights into employee trends. The dashboard focuses on key metrics such as **Attrition Rate**, **Headcount**, and **Employee Satisfaction** to help improve retention strategies.
